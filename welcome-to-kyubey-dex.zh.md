@@ -1,6 +1,6 @@
 @ Published at: 2018-11-23T15:22:00 +08:00
 @ Title: 欢迎来到Kyubey DEX
-@ Pinned: false
+@ Pinned: true
 
 欢迎您来到Kyubey DEX
 
