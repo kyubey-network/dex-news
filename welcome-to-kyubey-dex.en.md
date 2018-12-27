@@ -44,8 +44,6 @@ PC Web page: [http://dappsdapps.mikecrm.com/QVhT8WS](http://dappsdapps.mikecrm.c
 
 Mobile wallet App: [http://dappsdapps.mikecrm.com/JLzpjwS](http://dappsdapps.mikecrm.com/JLzpjwS)
 
-## 
-
 **How can you contact us?**
 
 If you need help with KyubeyDex, or if you have suggestions, please send an email to: [dex@kyubey.network](mailto:dex@kyubey.network)
