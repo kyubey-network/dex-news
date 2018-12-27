@@ -1,4 +1,4 @@
-@ Published at: 2018-12-27T12:00:00 +08:00
+@ Published at: 2018-12-27T06:00:00 +08:00
 @ Title: Kyubey Dex, a Free Decentralized Exchange, Open Beta Testing
 @ Pinned: true
 @ Default: true
@@ -10,17 +10,17 @@ Kyubey Dex Decentralized Exchange is an important part of the Kybeby Network eco
 
 **Why use Kyubey Dex trading?**
 
-1.  **Zero handling fee**
+**1. Zero handling fee**
 
 On the world's first zero-fee decentralized exchange, both buyers and sellers have zero commission.
 
-1.  **On-chain order matching**
+**2. On-chain order matching**
 
 Adopt blockchain smart contracts to match orders and deal on-chain transaction. It is safe and transparent.
 
 Smart contract address: kyubeydex.bp
 
-**Kyubey Dex has two major trading features:**
+**1. Kyubey Dex has two major trading features:**
 
 **DEX transaction (PC web page and mobile open beta)**
 
@@ -28,7 +28,7 @@ The DEX transaction, a decentralized exchange, provides liquidity in the seconda
 
 The DEX transaction function opens the beta testing on both PC-side webpage and mobile phone device.
 
-**DAIBO trading (In developing. Stay tuned!)**
+**2. DAIBO trading (In developing. Stay tuned!)**
 
 DAIBO trading is a smart contract that allows for immediate smart contract trading with DAIBO protocal. It providing asynchronous liquidity on the market.
 
